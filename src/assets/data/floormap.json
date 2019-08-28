@@ -1,0 +1,130 @@
+[
+    {
+        "label": "Apple Heart",
+        "category": "1",
+        "space": "1.01",
+        "icon" : "icon-appleheart",
+        "isActive": true,
+        "details": {
+            "shopName": "Apple Heart",
+            "desc": "Burdock celery - salsify, tomatillo. Bitter gourd horseradish leaves radicchio, celeriac miner's lettuce kurrat arugula fluted pumpkin turnip, arracacha water spinach nopal.",
+            "openAt": "6:30AM",
+            "closeAt": "11:30PM",
+            "phone": "(0) 66 5738902"
+        }
+
+        
+    },
+    {
+        "label": "Crazy Banana",
+        "category": "1",
+        "space": "1.02",
+        "icon" : "icon-appleheart",
+        "isActive": false,
+        "details": {
+            "shopName": "Crazy Banana",
+            "desc": "Burdock celery - salsify, tomatillo. Bitter gourd horseradish leaves radicchio, celeriac miner's lettuce kurrat arugula fluted pumpkin turnip, arracacha water spinach nopal.",
+            "openAt": "7:30AM",
+            "closeAt": "10:30PM",
+            "phone": "(0) 66 5738902"
+        }
+    },
+    {
+        "label": "Folding Life",
+        "category": "2",
+        "space": "1.03",
+        "icon" : "icon-appleheart",
+        "isActive": false,
+        "details": {
+            "shopName": "Folding Life",
+            "desc": "Brassica rapa Pekinensis group crassocephalum spp ipomoea aquatica. Brassica napus Napobrassica group pachyrhizus ahipa",
+            "openAt": "6:30AM",
+            "closeAt": "11:30PM",
+            "phone": "(0) 66 5738902"
+        }
+    },
+    {
+        "label": "Dress me not",
+        "category": "3",
+        "space": "1.04",
+        "icon" : "icon-appleheart",
+        "isActive": false,
+        "details": {
+            "shopName": "Dress me not",
+            "desc": "Burdock celery - salsify, tomatillo. Bitter gourd horseradish leaves radicchio, celeriac miner's lettuce kurrat arugula fluted pumpkin turnip, arracacha water spinach nopal.",
+            "openAt": "6:30AM",
+            "closeAt": "11:30PM",
+            "phone": "(0) 66 5738902"
+        }
+    },
+    {
+        "label": "Meditation Garden",
+        "category": "4",
+        "space": "1.05",
+        "icon" : "icon-appleheart",
+        "isActive": false,
+        "details": {
+            "shopName": "Meditation Garden",
+            "desc": "Burdock celery - salsify, tomatillo. Bitter gourd horseradish leaves radicchio, celeriac miner's lettuce kurrat arugula fluted pumpkin turnip, arracacha water spinach nopal.",
+            "openAt": "6:30AM",
+            "closeAt": "11:30PM",
+            "phone": "(0) 66 5738902"
+        }
+    },
+    {
+        "label": "Seed of Life",
+        "category": "1",
+        "space": "1.06",
+        "icon" : "icon-appleheart",
+        "isActive": false,
+        "details": {
+            "shopName": "Seed of Life",
+            "desc": "Burdock celery - salsify, tomatillo. Bitter gourd horseradish leaves radicchio, celeriac miner's lettuce kurrat arugula fluted pumpkin turnip, arracacha water spinach nopal.",
+            "openAt": "6:30AM",
+            "closeAt": "11:30PM",
+            "phone": "(0) 66 5738902"
+        }
+    },
+    {
+        "label": "Raw Delight",
+        "category": "1",
+        "space": "1.07",
+        "icon" : "icon-appleheart",
+        "isActive": false,
+        "details": {
+            "shopName": "Raw Delight",
+            "desc": "Burdock celery - salsify, tomatillo. Bitter gourd horseradish leaves radicchio, celeriac miner's lettuce kurrat arugula fluted pumpkin turnip, arracacha water spinach nopal.",
+            "openAt": "6:30AM",
+            "closeAt": "11:30PM",
+            "phone": "(0) 66 5738902"
+        }
+    },
+    {
+        "label": "The Wizard",
+        "category": "1",
+        "space": "1.08",
+        "icon" : "icon-appleheart",
+        "isActive": false,
+        "details": {
+            "shopName": "The Wizard",
+            "desc": "Burdock celery - salsify, tomatillo. Bitter gourd horseradish leaves radicchio, celeriac miner's lettuce kurrat arugula fluted pumpkin turnip, arracacha water spinach nopal.",
+            "openAt": "6:30AM",
+            "closeAt": "11:30PM",
+            "phone": "(0) 66 5738902"
+        }
+    },
+    {
+        "label": "Smoothies & Soul",
+        "category": "1",
+        "space": "1.09",
+        "icon" : "icon-appleheart",
+        "isActive": false,
+        "details": {
+            "shopName": "Smoothies & Soul",
+            "desc": "Burdock celery - salsify, tomatillo. Bitter gourd horseradish leaves radicchio, celeriac miner's lettuce kurrat arugula fluted pumpkin turnip, arracacha water spinach nopal.",
+            "openAt": "6:30AM",
+            "closeAt": "11:30PM",
+            "phone": "(0) 66 5738902"
+        }
+    }
+]
